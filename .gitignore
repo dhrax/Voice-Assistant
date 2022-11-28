@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@dhrax 
+dhrax
+/
+Voice-Assistant
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Voice-Assistant/.gitignore
+@dhrax
+dhrax Initial commit
+Latest commit f506307 1 minute ago
+ History
+ 1 contributor
+85 lines (68 sloc)  1.4 KB
+
 # Built application files
 *.apk
 *.aar
@@ -83,3 +113,18 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Voice-Assistant/.gitignore at main · dhrax/Voice-Assistant
